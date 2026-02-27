@@ -10,6 +10,7 @@ This project focuses on analyzing insurance customer data and customer feedback 
 # Insurance Customer Analysis
 ## Key Analysis Performed:
 1.Total Premium Amount, Claim Amount & Coverage Analysis
+
 2.Claim Status Distribution (Pending, Settled, Rejected)
 3.Premium Amount by Policy Type (Auto, Health, Travel, etc.)
 4.Claim Amount by Age Group
