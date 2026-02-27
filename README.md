@@ -29,3 +29,38 @@ This project focuses on analyzing insurance customer data and customer feedback 
 3.Compared claim settlement ratios across policy categories
 
 4.Evaluated active vs inactive customer distribution
+
+## Dashboard interaction 
+
+- <a href = "https://github.com/Aakash-krish/Data-Analysis-Dashboard/blob/main/customer_analysis_dashboard.jpeg">View Dashboard</a>
+
+# Customer Feedback & Sentiment Analysis
+## Key Analysis Performed:
+
+1.Customer feedback categorization (Good, Excellent, Needs Improvement)
+
+2.Sentiment scoring for textual feedback
+
+3.Word cloud visualization to identify frequent keywords
+
+Customer-level feedback breakdown
+
+## Insights Generated:
+
+1.Majority of customers reported positive experiences
+
+2.Identified recurring issues related to claims and website access
+
+3.Measured overall service sentiment using score aggregation
+
+## Dashboard interaction 
+
+- <a href = "https://github.com/Aakash-krish/Data-Analysis-Dashboard/blob/main/customer_feedback.jpeg">View Dashboard</a>
+
+## Conclusion 
+
+This project analyzes insurance operations and customer feedback using Power BI to generate actionable insights.
+It highlights key trends in premiums, claims, policy performance, and customer demographics.
+Sentiment analysis of feedback helps identify customer satisfaction levels and recurring issues.
+The dashboard provides a comprehensive view of both business performance and customer experience.
+Overall, it supports data-driven decision-making to improve service quality and operational efficiency.
